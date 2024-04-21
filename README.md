@@ -1,1 +1,2 @@
-# ToDo-Application
+# ToDo
+ ToDo List - Using HTML, CSS & JavaScript
