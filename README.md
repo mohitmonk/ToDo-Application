@@ -6,7 +6,7 @@
 </head>
 <body>
   <h1>Todo List</h1>
-  <p>This is a simple <a href="https://mohitmonk.github.io/ToDo-Application/login.html"> ToDo list application.</a></p>
+  <p>This is a simple <a href="https://mohitmonk.github.io/ToDo-Application/"> ToDo list application.</a></p>
   <h2>Getting Started</h2>
   <p>To get started, simply clone this repository and open the <code>index.html</code> file in your web browser.</p>
   <h2>Features</h2>
